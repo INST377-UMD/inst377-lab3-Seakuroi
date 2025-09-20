@@ -1,0 +1,61 @@
+
+        #samestyle {
+  background-color: hsl(36, 88%, 78%);
+ text-align: center;
+ color: white;
+ margin: auto;
+ padding: 10px;
+ clear: both;
+}
+
+a:link, a:visited {
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+body {
+  background-color: antiquewhite;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#Website1{
+ background-color: brown;
+ text-align: center;    
+}
+
+#Website1 li{
+    display: inline-block;
+    position: relative;
+}
+#Website1 li:hover{
+    background-color: beige;
+}
+input:focus{
+    width: 60%;
+}
+.Thegame{
+    background-color: aqua;
+    color: black;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 5px;
+    padding: 5px;
+    width: 50%;
+    float: left;
+}
+#Rules{
+    background-color: rgb(0, 255, 106);
+    color: black;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 5px;
+    padding: 5px;
+    width: 40%;
+    float: right;
+}
+#Rules:hover{
+    background-color: rgb(76, 167, 91);
+}
+ 
